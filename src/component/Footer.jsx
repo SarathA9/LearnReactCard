@@ -42,7 +42,7 @@ export default function ColorInversionMarketing() {
             '& > *': { flexGrow: 1, fontWeight: 'lg' },
           }}
         >
-        <a href="https://github.com/SarathA9/React-Card-Concept" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
+        <a href="https://github.com/SarathA9/LearnReactCard" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
             <Button sx={{ minWidth: 8, maxWidth:80 }}>
                 <GitHubIcon />GitHub
             </Button>
